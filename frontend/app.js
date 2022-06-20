@@ -8,27 +8,27 @@ function App() {
       <header className="App-header">
        <table>
         <tr>
-          <td>root.render(<Button1 name= 'Hello'/>)</td>
+          <td><Button1 /></td>
           <td>_</td>
-          <td><Button1 name='Hello' /></td>
+          <td><Button1 /></td>
           <td>_</td>
           <td><Button1 /></td>
         </tr>
        
         <tr>
-          <td><Button1 />|</td>
+          <td><Button1 /></td>
           <td>_</td>
-          <td><Button1 />|</td>
+          <td><Button1 /></td>
           <td>_</td>
-          <td><Button1 />|</td>
+          <td><Button1 /></td>
         </tr>
         
         <tr>
-        <td><Button1 />|</td>
+         <td><Button1 /></td>
           <td>_</td>
-          <td><Button1 />|</td>
+          <td><Button1 /></td>
           <td>_</td>
-          <td><Button1 />|</td>
+          <td><Button1 /></td>
         </tr>
        </table>
       </header>
